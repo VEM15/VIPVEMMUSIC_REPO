@@ -211,17 +211,17 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/0fm2u1.jpg",
+    "https://graph.org/file/8471935a9abed5e75180a-e62f80339724c8f778.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/0fm2u1.jpg",
+    "https://graph.org/file/cbae2b03a2b729c29881b-23036f468163268d91.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://files.catbox.moe/0fm2u1.jpg",
+    "https://graph.org/file/4116681a51c194cac039f-d0d0b0cd1bdd64fbdd.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
@@ -231,7 +231,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://files.catbox.moe/0fm2u1.jpg",
+    "https://graph.org/file/8471935a9abed5e75180a-e62f80339724c8f778.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
