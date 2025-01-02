@@ -1,5 +1,5 @@
 
-
+pillow
 pyromod
 openai
 aiofiles
